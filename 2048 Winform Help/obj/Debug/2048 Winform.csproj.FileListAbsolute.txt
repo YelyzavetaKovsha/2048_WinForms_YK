@@ -1,0 +1,32 @@
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\bin\Debug\2048 Winform.exe.config
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\bin\Debug\2048 Winform.exe
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\bin\Debug\2048 Winform.pdb
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\obj\Debug\2048 Winform.csproj.AssemblyReference.cache
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\obj\Debug\2048 Winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\obj\Debug\_2048_Winform.Properties.Resources.resources
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\obj\Debug\2048 Winform.csproj.GenerateResource.cache
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\obj\Debug\2048 Winform.csproj.CoreCompileInputs.cache
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\obj\Debug\2048 Winform.exe
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\obj\Debug\2048 Winform.pdb
+C:\Users\pi58ats\Desktop\1633 22.12.2023\2048 Winform Help 2\2048 Winform Help\obj\Debug\_2048_Winform.Form1.resources
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\bin\Debug\2048 Winform.exe.config
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\bin\Debug\2048 Winform.exe
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\bin\Debug\2048 Winform.pdb
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.csproj.AssemblyReference.cache
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\obj\Debug\_2048_Winform.Form1.resources
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\obj\Debug\_2048_Winform.Properties.Resources.resources
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.csproj.GenerateResource.cache
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.csproj.CoreCompileInputs.cache
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.exe
+C:\Users\pi58ats\Desktop\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.pdb
+D:\2048 Winform\2048 Winform Help\bin\Debug\2048 Winform.exe.config
+D:\2048 Winform\2048 Winform Help\bin\Debug\2048 Winform.exe
+D:\2048 Winform\2048 Winform Help\bin\Debug\2048 Winform.pdb
+D:\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.csproj.AssemblyReference.cache
+D:\2048 Winform\2048 Winform Help\obj\Debug\_2048_Winform.Form1.resources
+D:\2048 Winform\2048 Winform Help\obj\Debug\_2048_Winform.Properties.Resources.resources
+D:\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.csproj.GenerateResource.cache
+D:\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.csproj.CoreCompileInputs.cache
+D:\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.exe
+D:\2048 Winform\2048 Winform Help\obj\Debug\2048 Winform.pdb
